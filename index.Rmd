@@ -1,0 +1,23 @@
+---
+title: "Text Analytics for Marketing"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+
+
+
+**Welcome to the Text Analytics for Marketing book website!**
+
+
+# Getting started
+
+Click the links in the menu above to look around.
+
+
+# Notes
+
+
+
+

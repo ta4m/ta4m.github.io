@@ -1,0 +1,19 @@
+name: "Text Analytics for Marketing"
+title: "Text Analytics for Marketing"
+type: inverse
+left:
+  - text: "About us"
+    menu:
+      - text: "Learn more about us"
+        href: ./aboutus.html
+  - text: "The book"
+    menu:
+       - text: "Code"
+         href: ./code.html
+       - text: "Datasets"
+         href: ./datasets.html
+  - text: "Contact"
+    href: ./contact.html
+right:
+  - icon: fa-github fa-lg
+    href: https://ta4m.github.io

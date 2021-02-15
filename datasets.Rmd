@@ -1,0 +1,20 @@
+---
+title: "Datasets"
+author: "DD"
+date: "2/15/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Datasets
+
+[Market Dynamics of Products](../datasets/Market Dynamics of Products.csv)
+
+[Product Characteristics Information](../datasets/Product Characteristics Information.csv)
+
+[Product Reviews](../datasets/Product Reviews.csv)
+
+[Reviewer Information](../datasets/Reviewer Information.csv)
